@@ -28,7 +28,7 @@
 
 ![Segundo Diseno](./capturas/ingresar.jpg)
 ### Footer :
-![Segundo Diseno](./capturas/footer.jpg)
+![Segundo Diseno](./capturas/footer_inicio.jpg)
 
 
 <br><br>
