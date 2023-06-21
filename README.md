@@ -16,7 +16,7 @@
 <h2 align="center"><strong> 👾 Abarrotes:</strong></h2>
 <br>
 
-![Segundo Diseno](./screenshots/abarrotes.jpg)
+![Segundo Diseno](./capturas/abarrotes.jpg)
 <br>
 <h2 align="center"><strong> 👟 Opiniones:</strong></h2>
 <br>
