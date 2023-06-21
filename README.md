@@ -13,21 +13,24 @@
 ![Primer Diseno](./capturas/inicio.jpg)
 
 <br>
-<h2 align="center"><strong> 👾 Abarrotes:</strong></h2>
+<h2 align="center"><strong> 🛒 Abarrotes:</strong></h2>
 <br>
 
 ![Segundo Diseno](./capturas/abarrotes.jpg)
 <br>
-<h2 align="center"><strong> 👟 Opiniones:</strong></h2>
+<h2 align="center"><strong> 🤔 Opiniones:</strong></h2>
 <br>
 
 ![Segundo Diseno](./capturas/opiniones.jpg)
 <br>
-<h2 align="center"><strong> 🕴️ Logearse:</strong></h2>
+<h2 align="center"><strong> 👤 Logearse:</strong></h2>
 <br>
 
 ![Segundo Diseno](./capturas/ingresar.jpg)
-### Footer :
+<br>
+<h2 align="center"><strong> 🕳️ Footer:</strong></h2>
+<br>
+
 ![Segundo Diseno](./capturas/footer_inicio.jpg)
 
 
