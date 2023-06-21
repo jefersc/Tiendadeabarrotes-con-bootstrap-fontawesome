@@ -21,12 +21,12 @@
 <h2 align="center"><strong> 👟 Opiniones:</strong></h2>
 <br>
 
-![Segundo Diseno](./screenshots/opiniones.jpg)
+![Segundo Diseno](./capturas/opiniones.jpg)
 <br>
 <h2 align="center"><strong> 🕴️ Logearse:</strong></h2>
 <br>
 
-![Segundo Diseno](./screenshots/ingresar.jpg)
+![Segundo Diseno](./capturas/ingresar.jpg)
 ### Footer :
 ![Segundo Diseno](./capturas/footer.jpg)
 
